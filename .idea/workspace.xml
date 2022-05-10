@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="755c6926-387e-41a5-a415-b4d2ce788e3b" name="Changes" comment="Added a prinst statement.">
-      <change afterPath="$PROJECT_DIR$/src/VariableFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommentFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.VariableFun">
+}</component>
+  <component name="RunManager" selected="Application.ArithmeticFun">
+    <configuration name="ArithmeticFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticFun" />
+      <module name="JavaProject-section2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="JavaProject-section2" />
@@ -52,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticFun" />
         <item itemvalue="Application.VariableFun" />
         <item itemvalue="Application.HelloWorld" />
       </list>
