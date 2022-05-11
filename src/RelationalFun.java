@@ -1,4 +1,15 @@
 //Creating a class.
+
+//Relationship operators
+/*
+>
+>=
+<
+<=
+==
+!=
+ */
+
 public class RelationalFun {
     //Creating a main method
     public static void main(String[] args)
@@ -21,7 +32,7 @@ public class RelationalFun {
         boolean ageComparison = myAge > yourAge;
         //Printing ageComparison.
         System.out.println("myAge > yourAge? " + ageComparison);
-        //Overwritting the previous value on ageComparison with a new one.
+        //Overwriting the previous value on ageComparison with a new one.
         ageComparison = yourAge > bobsAge;
         //Printing a message.
         System.out.println("yourAge > bobsAge? " + ageComparison);
